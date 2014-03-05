@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+a:link {
+	color: #00C;
+}
+a:visited {
+	color: #00F;
+}
+a:hover {
+	color: #333;
+}
+a:active {
+	color: #00F;
+}
+#pageHeader{
+	color:F#00
+}
+
+#pageContent{
+	color:#090
+}
+
+#pageFooter {
+	color:#000
+}
+.footer {
+	text-align: center;
+}
